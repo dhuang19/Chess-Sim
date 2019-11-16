@@ -1,2 +1,2 @@
 # Chess-Sim
-Chess game build in Java and visualized with Java Swing.
+Chess game built in Java and visualized with Java Swing
